@@ -18,7 +18,8 @@
   "homepage": "https://github.com/willwashburn/curl",
   "license": "MIT",
   "require": {
-    "php": ">=5.4.0"
+    "php": ">=5.4.0",
+    "ext-curl": "*"
   },
   "autoload": {
     "classmap": ["src"]
