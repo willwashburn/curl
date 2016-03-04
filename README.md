@@ -1,4 +1,4 @@
-# Curl [![Packagist](https://img.shields.io/packagist/dt/willwashburn/curl.svg)](https://packagist.org/packages/willwashburn/curl) [![Packagist](https://img.shields.io/packagist/v/willwashburn/curl.svg)](https://packagist.org/packages/willwashburn/curl)
+# Curl 
 1-1 class mapping of the cURL library so it can be mocked / stubbed
 
 Sometimes, you just want to use cURL and not some abstracted class like guzzle. This is a simple wrapper for cURL so you can do that and still write meaningful tests.
