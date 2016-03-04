@@ -1,0 +1,27 @@
+{
+  "name": "willwashburn/curl",
+  "description": "1-1 class mapping of the cURL library so it can be mocked / stubbed",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Will Washburn",
+      "email": "will.washburn@gmail.com"
+    }
+  ],
+  "keywords": [
+    "curl",
+    "cURL",
+    "wrapper",
+    "1-1",
+  ],
+  "github": "https://github.com/willwashburn/curl",
+  "homepage": "https://github.com/willwashburn/curl",
+  "license": "MIT",
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "autoload": {
+    "classmap": ["src"]
+  },
+  "minimum-stability": "stable"
+}
